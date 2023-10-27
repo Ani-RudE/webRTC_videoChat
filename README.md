@@ -1,5 +1,7 @@
 ### Package Installation Guide
 
+Make sure you have [Node.js](https://nodejs.org/en/download) installed on your system before approaching further.
+
 1. To get `package.json` file.
 ```
 npm init -y
