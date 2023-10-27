@@ -5,7 +5,7 @@
 npm init -y
 ```
 
-2. Insatlling dependencies.
+2. Installing dependencies.
 ```
 npm install cors express nodemon socket.io
 ```
